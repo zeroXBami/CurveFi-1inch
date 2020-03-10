@@ -1,0 +1,11 @@
+# Node
+node_modules/
+
+# Python3.7
+venv/
+
+# Vyper
+artifacts/
+
+#Solidity
+build/

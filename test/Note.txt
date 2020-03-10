@@ -1,0 +1,29 @@
+- Deploy note  14/02
+1. SCW Wallet Address (Wallet.vy): 0xb01fa542a9f60381df625454480b60f03442b2f4
+https://etherscan.io/tx/0x399b69539a42cdba430f94ce59ce91bdc69b9a7eff1c851734374c8f6bece376
+2. Recipe Address (RecipeCurve.vy): 0xba01656435564ccdc52dad67629264a4b3d6d7db
+https://etherscan.io/tx/0xfb125dae4887952a9e2d19770c3f3f91d8cd273c633eb97df823c227c2a417d2
+- Deploy note 18/02:
+1. SCW Wallet Address (Wallet.vy): 0x199b0999e2ead19d0f0e9d459071351de77a210d
+https://etherscan.io/tx/0x0d46c9de2373bbbb28c4a7eb3be5f66b14fe1bb7bfcc60f74afb2db5df175b40
+2. Transfer 2 DAI to SCW:
+https://etherscan.io/tx/0x2552958487bc4d3c1981920c7cd4e8b86d2b97666fdca051d621b267ce378fa0
+3. Change Owner: 
+https://etherscan.io/tx/0x96766856e1eb2b834ce36819c009255c31f21bc8c4d3404a8920d07c471eadb2
+4. Deploy Recipe: 0xfcad64761060aea19fa55579859e41838e93d2e6
+https://etherscan.io/tx/0x343f61dfa9c0922c95e430378891329631782056e40b59d6bc7afaf4587d0300
+5. Invest 2 DAI got 1.970035867248973083 cDAIcUSDC
+https://etherscan.io/tx/0x12868c2ddd3ba65f77a5a12fc5cb1de1bec937d9a5be531b5dd41f9aff2be22c
+6. Redeem 1.5 cDAIcUSDC got 1.511491595668614598 DAI
+https://etherscan.io/tx/0x16ca3ab3c0b5f46b3db9aeba8810f006e199871d50ad6a737058db040af5c3fc
+- Deploy note 19/02:
+1. New Recipe with approve MAX_UINT256 for Curve at deploy time: 0x44a8db41191fe6cf938929e90271b0931035d602
+https://etherscan.io/tx/0x21f375ec98b2ba11b9d67c3e315584206cec27d8b39df17157635b9364a6dbc6
+2. Invest 2 USDC got 1.9815052829450367:
+https://etherscan.io/tx/0xf16389b8f9bd57c5f3e1d9535c9daabaed342427fc7e3270e798dd937d5061e8
+3. Redeem 1.9815052829450367 cDAIcUSDC got 1.99056 USDC:
+https://etherscan.io/tx/0x176eb66366ff3545466128cdd3870c74bb96d1e3f0db3ebff11578bd44ca4e37
+4. Invest (second time) 1.511491595668614598 DAI got 1.496778595564248662 cDAIcUSDC:
+https://etherscan.io/tx/0x3365b285053a6802d26d3f2adba539421e90727686dc365635dfcc44bf461180
+5. Redeem (second time) 1.496778595564248662 cDAIcUSDC got 1.50947072168943333 DAI
+https://etherscan.io/tx/0x3dc440b944fe6af5fd27b70594f3e5caec23c86b4298c301fb76bf667bf67478
