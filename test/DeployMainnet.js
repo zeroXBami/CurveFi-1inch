@@ -176,7 +176,7 @@ const getOwner = async() => {
         ).call({
           from: owner
         })
-        const user_privateK = "0x605ACD5197AF12B9496F82F56C238D6E76AF118206CE98249F3C80193F141647"
+        const user_privateK = ""
         const sign = await web3.eth.accounts.sign(hashDataToSign, user_privateK);        
         const signature =  Buffer.from(sign.signature.toString().substring(2), "hex");
 
@@ -230,7 +230,7 @@ const redeem = async() => {
     ).call({
         from: owner
     })
-    const user_privateK = "0x605ACD5197AF12B9496F82F56C238D6E76AF118206CE98249F3C80193F141647"
+    const user_privateK = ""
     const sign = await web3.eth.accounts.sign(hashDataToSign, user_privateK);        
     const signature =  Buffer.from(sign.signature.toString().substring(2), "hex");
     //redeemToken: address, redemAmount: uint256, recvToken: address, recvMinAmount: uint256, to: address, proxyData: bytes[484], _sig: bytes[65]
@@ -299,7 +299,7 @@ const swapToNewRecipe = async () => {
     ).call({
         from: owner
     })
-    const user_privateK = "0x605ACD5197AF12B9496F82F56C238D6E76AF118206CE98249F3C80193F141647"
+    const user_privateK = ""
     const sign = await web3.eth.accounts.sign(hashDataToSign, user_privateK);        
     const signature =  Buffer.from(sign.signature.toString().substring(2), "hex");
    
@@ -342,7 +342,7 @@ const withdrawal = async () => {
      ).call({
         from: owner
     })
-    const user_privateK = "0x605ACD5197AF12B9496F82F56C238D6E76AF118206CE98249F3C80193F141647"
+    const user_privateK = ""
     const sign = await web3.eth.accounts.sign(hashDataToSign, user_privateK);        
     const signature =  Buffer.from(sign.signature.toString().substring(2), "hex");
     //@public
